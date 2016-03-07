@@ -1,2 +1,5 @@
 # hello-world
-My repo to learn how to use GitHub
+
+Hello, World!
+This is my first edit/commit of the readme.md file.
+This is done on readme-edits branch and will later be merged to master.
